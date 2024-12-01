@@ -69,6 +69,7 @@ body {
 
 .input-box {
     height: 3rem;
+    color: #fff;
 }
 
 .input-box::placeholder {
